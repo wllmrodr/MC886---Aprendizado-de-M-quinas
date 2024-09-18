@@ -1,1 +1,1 @@
-
+Nessa disciplina colocamos em prática alguns algoritmos de aprendizado de máquina que nos foi aprezentado em sala de aula. Os trabalhos são desenvolvidos na linguagem Python, junto com sklearn e Jupyter Notebook.
